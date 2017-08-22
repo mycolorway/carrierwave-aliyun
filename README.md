@@ -1,3 +1,5 @@
+DEPRECATED: upstream already support using internal API host.
+
 # CarrierWave for Aliyun OSS
 
 This gem adds support for [Aliyun OSS](http://oss.aliyun.com) to [CarrierWave](https://github.com/jnicklas/carrierwave/)
